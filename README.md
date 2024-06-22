@@ -1,8 +1,23 @@
-# React + Vite
+# Dynamic Form Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains three levels of dynamic form applications built with React, each progressively more complex. These forms are designed to demonstrate the use of React functional components, hooks, conditional logic, and validation.
 
-Currently, two official plugins are available:
+## Levels
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Level 1: Basic Dynamic Form with Conditional Fields**
+2. **Level 2: Intermediate Dynamic Form with Nested Conditional Logic and Multiple Field Types**
+3. **Level 3: Advanced Dynamic Form with Complex Conditional Logic, Dynamic Sections, and Integration with an API**
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or later)
+- npm (v6 or later)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/dynamic-form-application.git
